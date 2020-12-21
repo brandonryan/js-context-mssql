@@ -1,0 +1,14 @@
+{
+  "name": "js-context-mssql",
+  "version": "0.3.0",
+  "description": "js-context mssql module",
+  "main": "index.js",
+  "repository": "github.com/brandonryan/js-context-mssql",
+  "author": "Brandon Ryan <bjryan19@protonmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "js-context": "^0.3.0",
+    "mssql": "^6.3.0"
+  }
+}
