@@ -3,6 +3,7 @@
   "version": "0.4.0",
   "description": "js-context mssql module",
   "main": "index.js",
+  "type": "module",
   "repository": "github.com/brandonryan/js-context-mssql",
   "author": "Brandon Ryan <bjryan19@protonmail.com>",
   "license": "MIT",
