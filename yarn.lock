@@ -309,9 +309,9 @@ isstream@~0.1.2:
   integrity sha1-R+Y/evVa+m+S4VAOaQ64uFKcCZo=
 
 js-context@^0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/js-context/-/js-context-0.6.0.tgz#ad6841d90ee25e9757168a5a4762348b877b8a27"
-  integrity sha512-8D+dSz2pF3tsum/hGunph5nCPgAYWSbnO5AZpeWiX5CUVTrj5nxRu62FrugqQxiLmoMATf8g3O65NHmf7HNoAg==
+  version "0.6.1"
+  resolved "https://registry.yarnpkg.com/js-context/-/js-context-0.6.1.tgz#843993f27e4409e44e8147926e4060b0856cf8e7"
+  integrity sha512-jW7bk/NyHh72xByq0Ei/Oc42Es8UrZWwxkw/MAVe/h9xNQluvSxMZ8h4948OQsvF8oWa7tRFxK3FNB7tot40UA==
 
 jsbi@^3.1.1:
   version "3.1.4"
