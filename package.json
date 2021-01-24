@@ -9,7 +9,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "js-context": "^0.5.0",
+    "js-context": "^0.6.0",
     "mssql": "^6.3.1"
   }
 }
