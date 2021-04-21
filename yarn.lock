@@ -316,10 +316,10 @@ isstream@~0.1.2:
   resolved "https://registry.yarnpkg.com/isstream/-/isstream-0.1.2.tgz#47e63f7af55afa6f92e1500e690eb8b8529c099a"
   integrity sha1-R+Y/evVa+m+S4VAOaQ64uFKcCZo=
 
-js-context@^0.6.0:
-  version "0.6.2"
-  resolved "https://registry.yarnpkg.com/js-context/-/js-context-0.6.2.tgz#ad4a476d08eb19a69f74cd639252769ca42a9887"
-  integrity sha512-tHeWcMkUEvg/QO7mT54pLHahwVkdtuoNnSgCpcb7/x16EiVOEz7X4dUmf82IxdumxDffLRwnLfAr4nIfipWhpw==
+js-context@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/js-context/-/js-context-0.7.0.tgz#dd11ac417d27d359a4dcdeae180443047f475eb1"
+  integrity sha512-/36Bi0SkeRqoQh+f85r4Iur63M8aGGXhQrVcmANFvt06oA2UiYir5i0A7Df0fUO13SqgymPTn9c4smtZxwVu7Q==
 
 jsbi@^3.1.1:
   version "3.1.4"
