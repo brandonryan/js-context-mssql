@@ -8,10 +8,8 @@
   "author": "Brandon Ryan <bjryan19@protonmail.com>",
   "license": "MIT",
   "private": false,
-  "dependencies": {
-    "mssql": "^6.3.1"
-  },
   "peerDependencies": {
-    "js-context": "^0.7.0"
+    "js-context": "^0.7.0",
+    "mssql": ">=7.0.0"
   }
 }
